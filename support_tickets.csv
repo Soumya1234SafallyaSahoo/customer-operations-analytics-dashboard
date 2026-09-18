@@ -1,0 +1,501 @@
+ticket_id,ticket_date,product,category,priority,channel,agent,status,resolution_hours,sla_status,customer_satisfaction
+1,2026-06-13,Core SaaS,Performance,Low,Email,Rohan,Pending,29.8,Met,3
+2,2026-01-09,Collaboration,Performance,Low,Email,Rohan,Resolved,27.0,Met,4
+3,2026-06-16,Core SaaS,Billing,High,Web,Meera,Resolved,6.2,Met,4
+4,2026-03-13,Analytics,Technical Issue,Low,Email,Meera,Resolved,32.1,Met,5
+5,2026-04-02,Collaboration,Technical Issue,High,Chat,Aarav,Escalated,4.2,Met,5
+6,2026-03-17,Analytics,Performance,High,Email,Anaya,Resolved,5.6,Met,5
+7,2026-01-12,Core SaaS,Feature Request,Medium,Chat,Meera,Resolved,19.7,Met,5
+8,2026-02-11,Analytics,Technical Issue,Medium,Web,Anaya,Resolved,6.5,Met,4
+9,2026-05-17,Collaboration,Performance,High,Email,Anaya,Resolved,12.0,Breached,5
+10,2026-01-15,Analytics,Feature Request,Low,Chat,Aarav,Resolved,33.3,Met,2
+11,2026-05-26,Collaboration,Feature Request,High,Email,Kabir,Resolved,7.7,Met,4
+12,2026-03-05,Collaboration,Performance,High,Chat,Rohan,Pending,15.4,Breached,5
+13,2026-04-03,Core SaaS,Technical Issue,Low,Email,Anaya,Resolved,34.8,Met,3
+14,2026-06-24,Analytics,Performance,Medium,Chat,Rohan,Resolved,17.9,Met,2
+15,2026-05-22,Collaboration,Account Access,High,Web,Kabir,Resolved,16.4,Breached,5
+16,2026-03-17,Collaboration,Account Access,Medium,Web,Diya,Escalated,18.5,Met,4
+17,2026-01-28,Core SaaS,Account Access,High,Email,Rohan,Escalated,8.3,Met,5
+18,2026-01-01,Core SaaS,Account Access,Medium,Chat,Diya,Resolved,23.4,Met,4
+19,2026-03-03,Core SaaS,Performance,High,Email,Diya,Pending,11.6,Met,4
+20,2026-05-21,Collaboration,Feature Request,Low,Email,Rohan,Resolved,29.4,Met,5
+21,2026-03-21,Analytics,Technical Issue,Medium,Email,Diya,Resolved,16.2,Met,5
+22,2026-03-28,Collaboration,Billing,Low,Email,Aarav,Resolved,26.6,Met,5
+23,2026-02-28,Analytics,Feature Request,Low,Email,Rohan,Resolved,33.5,Met,5
+24,2026-05-27,Analytics,Feature Request,Medium,Email,Aarav,Resolved,18.7,Met,4
+25,2026-06-18,Collaboration,Technical Issue,Medium,Email,Meera,Resolved,14.0,Met,5
+26,2026-01-28,Analytics,Billing,Low,Chat,Diya,Resolved,32.1,Met,3
+27,2026-04-29,Collaboration,Technical Issue,Low,Email,Anaya,Escalated,33.8,Met,5
+28,2026-01-04,Core SaaS,Billing,Critical,Chat,Meera,Pending,4.0,Met,5
+29,2026-02-24,Analytics,Account Access,High,Chat,Kabir,Pending,12.0,Met,1
+30,2026-06-28,Collaboration,Feature Request,Critical,Email,Diya,Resolved,4.6,Met,5
+31,2026-02-25,Core SaaS,Technical Issue,Critical,Web,Meera,Escalated,1.6,Met,5
+32,2026-05-16,Core SaaS,Billing,Low,Email,Rohan,Resolved,27.6,Met,5
+33,2026-06-22,Collaboration,Performance,High,Email,Rohan,Resolved,2.2,Met,5
+34,2026-04-18,Analytics,Account Access,Medium,Email,Anaya,Resolved,23.4,Met,5
+35,2026-03-03,Core SaaS,Technical Issue,Medium,Chat,Rohan,Escalated,21.9,Met,4
+36,2026-01-26,Analytics,Billing,Low,Chat,Aarav,Resolved,34.2,Met,4
+37,2026-04-05,Collaboration,Performance,Medium,Email,Anaya,Escalated,13.4,Met,4
+38,2026-03-18,Core SaaS,Account Access,Critical,Email,Aarav,Escalated,7.9,Met,3
+39,2026-02-09,Collaboration,Account Access,Medium,Web,Meera,Resolved,13.0,Met,4
+40,2026-01-14,Analytics,Technical Issue,Low,Email,Kabir,Resolved,26.1,Met,4
+41,2026-06-13,Collaboration,Technical Issue,Critical,Email,Aarav,Resolved,8.3,Breached,5
+42,2026-05-20,Collaboration,Billing,Low,Chat,Diya,Resolved,33.7,Met,4
+43,2026-03-20,Analytics,Billing,Medium,Web,Diya,Resolved,27.8,Breached,2
+44,2026-04-01,Analytics,Performance,High,Web,Diya,Resolved,5.6,Met,5
+45,2026-02-11,Collaboration,Account Access,Critical,Chat,Anaya,Resolved,9.1,Breached,1
+46,2026-03-10,Analytics,Technical Issue,Low,Chat,Diya,Resolved,22.3,Met,5
+47,2026-04-28,Collaboration,Billing,Medium,Chat,Kabir,Resolved,21.5,Met,4
+48,2026-01-18,Collaboration,Performance,Critical,Chat,Anaya,Escalated,0.5,Met,4
+49,2026-03-26,Analytics,Technical Issue,Critical,Email,Rohan,Pending,13.9,Breached,3
+50,2026-03-30,Collaboration,Performance,High,Email,Meera,Escalated,17.0,Breached,4
+51,2026-02-18,Collaboration,Billing,Medium,Chat,Meera,Resolved,17.9,Met,5
+52,2026-06-20,Collaboration,Technical Issue,Critical,Web,Kabir,Escalated,5.8,Met,5
+53,2026-03-21,Core SaaS,Feature Request,Medium,Web,Meera,Resolved,15.2,Met,5
+54,2026-06-07,Core SaaS,Account Access,Medium,Chat,Diya,Pending,23.5,Met,4
+55,2026-05-29,Collaboration,Feature Request,Medium,Web,Diya,Resolved,16.1,Met,5
+56,2026-03-14,Analytics,Technical Issue,Medium,Email,Anaya,Resolved,21.9,Met,5
+57,2026-02-27,Collaboration,Technical Issue,High,Chat,Meera,Escalated,10.7,Met,5
+58,2026-02-19,Analytics,Billing,High,Email,Anaya,Resolved,11.0,Met,4
+59,2026-01-28,Analytics,Technical Issue,High,Web,Diya,Resolved,11.4,Met,5
+60,2026-04-27,Collaboration,Performance,Low,Web,Kabir,Pending,37.1,Met,4
+61,2026-06-06,Analytics,Billing,High,Web,Meera,Pending,13.3,Breached,5
+62,2026-03-08,Analytics,Performance,High,Chat,Anaya,Resolved,7.4,Met,5
+63,2026-03-12,Collaboration,Technical Issue,Medium,Email,Diya,Resolved,17.3,Met,4
+64,2026-04-09,Core SaaS,Feature Request,Medium,Chat,Kabir,Escalated,15.2,Met,5
+65,2026-04-30,Collaboration,Technical Issue,Medium,Web,Meera,Pending,19.1,Met,5
+66,2026-01-02,Analytics,Feature Request,Critical,Web,Anaya,Escalated,10.0,Breached,4
+67,2026-06-04,Analytics,Account Access,High,Web,Anaya,Pending,6.8,Met,4
+68,2026-02-12,Collaboration,Performance,High,Email,Meera,Escalated,10.2,Met,5
+69,2026-05-25,Core SaaS,Technical Issue,Medium,Chat,Meera,Resolved,21.7,Met,5
+70,2026-02-24,Analytics,Account Access,Medium,Chat,Kabir,Resolved,20.1,Met,4
+71,2026-05-01,Collaboration,Technical Issue,Low,Web,Aarav,Resolved,13.3,Met,4
+72,2026-03-05,Core SaaS,Billing,Low,Email,Meera,Resolved,25.8,Met,1
+73,2026-05-25,Collaboration,Performance,Critical,Web,Anaya,Resolved,3.0,Met,4
+74,2026-02-11,Core SaaS,Account Access,Critical,Web,Anaya,Pending,6.7,Met,3
+75,2026-04-12,Core SaaS,Technical Issue,Critical,Web,Kabir,Escalated,7.7,Met,5
+76,2026-01-31,Core SaaS,Account Access,High,Web,Meera,Resolved,15.1,Breached,5
+77,2026-01-18,Core SaaS,Feature Request,Medium,Chat,Anaya,Pending,13.8,Met,5
+78,2026-02-09,Collaboration,Account Access,Medium,Web,Rohan,Pending,24.5,Breached,5
+79,2026-04-30,Core SaaS,Account Access,Medium,Chat,Diya,Pending,17.6,Met,5
+80,2026-05-26,Core SaaS,Feature Request,Medium,Chat,Diya,Pending,14.9,Met,4
+81,2026-02-24,Analytics,Performance,Medium,Email,Rohan,Resolved,17.8,Met,5
+82,2026-01-22,Collaboration,Billing,Low,Web,Meera,Pending,33.2,Met,4
+83,2026-04-25,Analytics,Performance,High,Chat,Meera,Escalated,12.4,Breached,5
+84,2026-05-16,Collaboration,Account Access,Medium,Chat,Anaya,Pending,19.6,Met,5
+85,2026-03-11,Collaboration,Performance,Medium,Web,Diya,Resolved,18.8,Met,4
+86,2026-02-25,Collaboration,Performance,High,Web,Kabir,Resolved,16.3,Breached,4
+87,2026-02-19,Core SaaS,Account Access,Medium,Email,Aarav,Escalated,15.8,Met,5
+88,2026-03-16,Analytics,Technical Issue,Medium,Email,Rohan,Resolved,20.6,Met,3
+89,2026-05-01,Analytics,Technical Issue,Medium,Email,Meera,Pending,12.4,Met,4
+90,2026-01-19,Core SaaS,Billing,Medium,Web,Kabir,Resolved,26.7,Breached,5
+91,2026-03-05,Core SaaS,Performance,Low,Chat,Meera,Pending,30.5,Met,5
+92,2026-03-18,Analytics,Performance,High,Web,Aarav,Escalated,4.6,Met,5
+93,2026-01-26,Core SaaS,Billing,Critical,Email,Rohan,Resolved,6.7,Met,5
+94,2026-02-10,Collaboration,Feature Request,Low,Chat,Aarav,Resolved,32.7,Met,4
+95,2026-03-15,Analytics,Performance,High,Web,Diya,Pending,8.7,Met,5
+96,2026-01-30,Analytics,Billing,Medium,Email,Aarav,Resolved,13.8,Met,5
+97,2026-03-20,Analytics,Account Access,Medium,Web,Meera,Resolved,22.1,Met,4
+98,2026-05-09,Collaboration,Technical Issue,Medium,Chat,Anaya,Resolved,9.9,Met,4
+99,2026-06-04,Collaboration,Performance,Medium,Email,Anaya,Resolved,26.6,Breached,5
+100,2026-05-28,Analytics,Performance,Low,Web,Meera,Resolved,35.6,Met,5
+101,2026-02-16,Analytics,Account Access,Critical,Chat,Kabir,Resolved,0.5,Met,5
+102,2026-06-21,Analytics,Feature Request,Low,Chat,Anaya,Pending,32.9,Met,3
+103,2026-05-21,Analytics,Performance,Low,Email,Anaya,Escalated,32.6,Met,3
+104,2026-04-29,Analytics,Performance,Medium,Chat,Anaya,Pending,19.6,Met,3
+105,2026-01-14,Collaboration,Feature Request,Low,Email,Aarav,Escalated,21.3,Met,4
+106,2026-03-03,Core SaaS,Performance,High,Chat,Aarav,Resolved,7.2,Met,4
+107,2026-01-30,Collaboration,Account Access,Medium,Web,Anaya,Resolved,23.6,Met,4
+108,2026-04-17,Core SaaS,Feature Request,High,Web,Diya,Pending,15.1,Breached,5
+109,2026-02-18,Analytics,Feature Request,Critical,Chat,Rohan,Resolved,0.5,Met,5
+110,2026-01-01,Collaboration,Performance,Medium,Web,Meera,Resolved,17.6,Met,4
+111,2026-04-25,Analytics,Account Access,Medium,Email,Anaya,Resolved,15.1,Met,5
+112,2026-05-27,Analytics,Technical Issue,Medium,Chat,Anaya,Pending,22.2,Met,5
+113,2026-04-08,Analytics,Technical Issue,Medium,Email,Rohan,Escalated,14.2,Met,5
+114,2026-03-26,Analytics,Technical Issue,High,Web,Meera,Resolved,3.6,Met,5
+115,2026-02-06,Analytics,Account Access,Medium,Web,Anaya,Pending,16.7,Met,4
+116,2026-06-16,Collaboration,Performance,Low,Chat,Kabir,Pending,28.1,Met,4
+117,2026-05-19,Core SaaS,Technical Issue,Low,Chat,Aarav,Resolved,35.1,Met,5
+118,2026-04-24,Core SaaS,Technical Issue,Low,Chat,Aarav,Resolved,32.4,Met,4
+119,2026-04-02,Core SaaS,Billing,Medium,Email,Aarav,Escalated,21.0,Met,5
+120,2026-04-08,Collaboration,Billing,Medium,Email,Meera,Resolved,21.9,Met,4
+121,2026-04-28,Collaboration,Performance,Medium,Email,Aarav,Pending,25.2,Breached,5
+122,2026-03-30,Analytics,Account Access,Critical,Chat,Kabir,Resolved,6.4,Met,4
+123,2026-04-09,Analytics,Account Access,High,Email,Anaya,Pending,13.1,Breached,4
+124,2026-03-12,Collaboration,Technical Issue,Low,Web,Anaya,Pending,32.4,Met,5
+125,2026-03-15,Core SaaS,Performance,High,Chat,Anaya,Resolved,10.9,Met,4
+126,2026-06-10,Core SaaS,Account Access,Low,Chat,Aarav,Escalated,37.1,Met,5
+127,2026-04-04,Core SaaS,Billing,High,Email,Rohan,Resolved,12.8,Breached,5
+128,2026-05-16,Core SaaS,Account Access,Medium,Chat,Kabir,Resolved,19.8,Met,4
+129,2026-01-30,Collaboration,Feature Request,Medium,Web,Kabir,Resolved,24.0,Met,4
+130,2026-04-12,Analytics,Account Access,Low,Web,Anaya,Resolved,33.1,Met,5
+131,2026-05-30,Analytics,Technical Issue,Medium,Web,Rohan,Resolved,15.5,Met,5
+132,2026-06-06,Analytics,Account Access,Low,Web,Meera,Resolved,27.1,Met,2
+133,2026-02-05,Core SaaS,Performance,Low,Email,Meera,Pending,42.9,Met,3
+134,2026-04-05,Collaboration,Feature Request,Medium,Web,Anaya,Resolved,21.1,Met,5
+135,2026-04-17,Analytics,Technical Issue,Medium,Web,Kabir,Resolved,20.8,Met,5
+136,2026-04-24,Analytics,Technical Issue,Medium,Web,Kabir,Escalated,13.2,Met,4
+137,2026-06-15,Analytics,Technical Issue,Medium,Web,Diya,Escalated,15.9,Met,3
+138,2026-01-06,Core SaaS,Performance,Low,Email,Aarav,Escalated,31.5,Met,4
+139,2026-02-23,Collaboration,Technical Issue,Medium,Chat,Diya,Resolved,19.1,Met,5
+140,2026-05-19,Collaboration,Technical Issue,Medium,Email,Aarav,Resolved,15.3,Met,3
+141,2026-03-02,Analytics,Performance,Medium,Email,Anaya,Resolved,21.1,Met,3
+142,2026-05-02,Collaboration,Technical Issue,Medium,Chat,Rohan,Resolved,18.3,Met,4
+143,2026-06-07,Analytics,Technical Issue,Low,Email,Meera,Pending,31.7,Met,5
+144,2026-04-20,Analytics,Technical Issue,Medium,Email,Kabir,Escalated,10.1,Met,4
+145,2026-02-07,Analytics,Feature Request,Low,Web,Rohan,Resolved,29.1,Met,5
+146,2026-04-27,Collaboration,Technical Issue,Medium,Web,Anaya,Escalated,23.6,Met,4
+147,2026-02-25,Analytics,Feature Request,Medium,Web,Aarav,Resolved,21.2,Met,5
+148,2026-04-20,Core SaaS,Feature Request,Medium,Email,Aarav,Resolved,15.3,Met,4
+149,2026-01-24,Core SaaS,Performance,Medium,Web,Rohan,Resolved,17.9,Met,3
+150,2026-06-21,Collaboration,Feature Request,Low,Web,Aarav,Resolved,26.1,Met,4
+151,2026-06-03,Analytics,Billing,Medium,Email,Kabir,Escalated,21.8,Met,3
+152,2026-04-05,Core SaaS,Feature Request,Low,Web,Rohan,Escalated,32.9,Met,4
+153,2026-06-22,Analytics,Technical Issue,Medium,Email,Kabir,Resolved,27.1,Breached,5
+154,2026-03-28,Core SaaS,Performance,Medium,Web,Meera,Resolved,19.5,Met,3
+155,2026-02-06,Analytics,Feature Request,High,Chat,Kabir,Resolved,11.7,Met,5
+156,2026-04-05,Collaboration,Performance,Medium,Email,Aarav,Resolved,17.7,Met,4
+157,2026-02-10,Analytics,Feature Request,High,Web,Meera,Pending,11.6,Met,4
+158,2026-03-11,Analytics,Feature Request,Low,Email,Kabir,Escalated,30.5,Met,5
+159,2026-05-05,Core SaaS,Technical Issue,Medium,Email,Kabir,Resolved,17.0,Met,5
+160,2026-02-05,Core SaaS,Technical Issue,High,Chat,Anaya,Pending,12.6,Breached,4
+161,2026-02-14,Collaboration,Account Access,Low,Email,Meera,Resolved,27.2,Met,5
+162,2026-04-22,Analytics,Performance,Low,Chat,Rohan,Pending,29.4,Met,5
+163,2026-06-13,Collaboration,Feature Request,Medium,Web,Kabir,Resolved,18.6,Met,4
+164,2026-04-22,Collaboration,Feature Request,High,Web,Aarav,Pending,10.5,Met,4
+165,2026-03-21,Collaboration,Technical Issue,High,Web,Rohan,Resolved,11.2,Met,2
+166,2026-03-31,Collaboration,Billing,Medium,Email,Aarav,Resolved,24.8,Breached,5
+167,2026-03-07,Core SaaS,Feature Request,Low,Chat,Rohan,Escalated,24.6,Met,5
+168,2026-04-25,Collaboration,Performance,Medium,Chat,Anaya,Resolved,13.9,Met,5
+169,2026-02-08,Collaboration,Technical Issue,Medium,Chat,Rohan,Resolved,12.5,Met,5
+170,2026-03-21,Analytics,Account Access,Medium,Email,Anaya,Resolved,19.1,Met,2
+171,2026-06-07,Collaboration,Technical Issue,Medium,Chat,Rohan,Resolved,14.1,Met,5
+172,2026-03-24,Core SaaS,Feature Request,Medium,Email,Kabir,Resolved,21.5,Met,5
+173,2026-05-10,Collaboration,Performance,Medium,Web,Diya,Resolved,24.1,Breached,5
+174,2026-04-06,Analytics,Performance,High,Email,Anaya,Resolved,11.5,Met,4
+175,2026-01-17,Collaboration,Performance,Medium,Email,Kabir,Resolved,14.3,Met,4
+176,2026-05-30,Analytics,Feature Request,Medium,Email,Rohan,Resolved,16.6,Met,5
+177,2026-03-21,Collaboration,Performance,Medium,Email,Anaya,Pending,15.8,Met,3
+178,2026-05-11,Core SaaS,Billing,Medium,Chat,Meera,Resolved,15.2,Met,4
+179,2026-02-27,Collaboration,Performance,Critical,Web,Rohan,Resolved,7.9,Met,5
+180,2026-06-19,Core SaaS,Performance,Medium,Chat,Diya,Resolved,20.8,Met,5
+181,2026-02-16,Analytics,Technical Issue,High,Chat,Kabir,Resolved,11.0,Met,3
+182,2026-04-24,Analytics,Billing,Medium,Web,Diya,Resolved,10.8,Met,5
+183,2026-05-01,Analytics,Feature Request,High,Chat,Meera,Escalated,12.1,Breached,5
+184,2026-05-16,Core SaaS,Performance,Medium,Email,Kabir,Resolved,23.7,Met,3
+185,2026-06-14,Collaboration,Technical Issue,Medium,Chat,Aarav,Resolved,11.6,Met,5
+186,2026-03-11,Analytics,Technical Issue,Medium,Email,Meera,Resolved,24.8,Breached,5
+187,2026-01-07,Core SaaS,Account Access,Medium,Email,Aarav,Resolved,14.9,Met,4
+188,2026-01-26,Core SaaS,Billing,High,Email,Kabir,Pending,12.3,Breached,5
+189,2026-06-28,Core SaaS,Technical Issue,High,Chat,Diya,Resolved,10.2,Met,5
+190,2026-05-21,Analytics,Technical Issue,Critical,Chat,Diya,Resolved,1.5,Met,5
+191,2026-02-01,Core SaaS,Feature Request,Low,Web,Rohan,Resolved,23.8,Met,4
+192,2026-06-11,Core SaaS,Account Access,Medium,Chat,Aarav,Escalated,21.4,Met,4
+193,2026-04-01,Analytics,Technical Issue,Low,Web,Rohan,Escalated,24.9,Met,3
+194,2026-05-10,Analytics,Technical Issue,Medium,Web,Meera,Resolved,21.0,Met,4
+195,2026-03-06,Collaboration,Technical Issue,High,Web,Anaya,Resolved,9.1,Met,4
+196,2026-02-04,Collaboration,Billing,Low,Web,Meera,Pending,31.2,Met,5
+197,2026-06-11,Core SaaS,Account Access,Low,Email,Aarav,Resolved,34.2,Met,5
+198,2026-01-11,Analytics,Performance,Medium,Chat,Kabir,Resolved,22.8,Met,4
+199,2026-06-15,Analytics,Account Access,Low,Email,Kabir,Pending,25.7,Met,5
+200,2026-04-13,Analytics,Account Access,High,Email,Meera,Pending,15.5,Breached,5
+201,2026-04-05,Core SaaS,Feature Request,Critical,Web,Diya,Escalated,0.5,Met,5
+202,2026-03-17,Collaboration,Account Access,Medium,Chat,Meera,Escalated,17.1,Met,3
+203,2026-04-20,Analytics,Performance,Low,Chat,Kabir,Resolved,25.9,Met,5
+204,2026-01-20,Collaboration,Billing,Medium,Email,Diya,Escalated,19.5,Met,4
+205,2026-06-23,Analytics,Account Access,High,Chat,Rohan,Resolved,11.5,Met,5
+206,2026-06-04,Analytics,Account Access,Low,Chat,Aarav,Escalated,30.3,Met,4
+207,2026-02-05,Core SaaS,Technical Issue,Medium,Web,Diya,Pending,13.4,Met,4
+208,2026-05-13,Analytics,Account Access,Medium,Web,Meera,Resolved,21.5,Met,5
+209,2026-06-06,Core SaaS,Feature Request,Medium,Email,Anaya,Pending,22.0,Met,3
+210,2026-01-23,Analytics,Account Access,High,Web,Aarav,Escalated,7.7,Met,5
+211,2026-05-19,Collaboration,Billing,Medium,Chat,Rohan,Resolved,17.3,Met,5
+212,2026-02-01,Core SaaS,Feature Request,Critical,Email,Kabir,Escalated,8.2,Breached,5
+213,2026-05-27,Core SaaS,Technical Issue,Medium,Chat,Meera,Pending,19.7,Met,5
+214,2026-05-15,Collaboration,Technical Issue,Medium,Email,Kabir,Resolved,13.2,Met,4
+215,2026-04-26,Collaboration,Performance,Medium,Email,Diya,Pending,15.9,Met,5
+216,2026-05-09,Core SaaS,Performance,High,Email,Kabir,Resolved,9.8,Met,2
+217,2026-02-11,Analytics,Technical Issue,Medium,Chat,Diya,Escalated,17.1,Met,5
+218,2026-03-12,Collaboration,Technical Issue,Low,Web,Anaya,Resolved,26.4,Met,4
+219,2026-06-01,Collaboration,Account Access,Critical,Web,Aarav,Resolved,9.3,Breached,5
+220,2026-01-21,Collaboration,Account Access,Low,Web,Diya,Escalated,34.8,Met,5
+221,2026-04-17,Collaboration,Account Access,Medium,Chat,Diya,Pending,26.2,Breached,5
+222,2026-03-18,Core SaaS,Feature Request,Medium,Chat,Meera,Pending,19.6,Met,5
+223,2026-02-22,Analytics,Feature Request,Medium,Email,Kabir,Escalated,22.9,Met,4
+224,2026-05-24,Core SaaS,Account Access,Low,Chat,Diya,Resolved,36.2,Met,4
+225,2026-01-25,Core SaaS,Account Access,Low,Web,Anaya,Resolved,37.5,Met,4
+226,2026-02-18,Collaboration,Feature Request,High,Chat,Kabir,Pending,7.3,Met,4
+227,2026-01-06,Collaboration,Account Access,Low,Email,Aarav,Resolved,26.5,Met,4
+228,2026-05-07,Collaboration,Feature Request,Medium,Chat,Rohan,Resolved,20.7,Met,5
+229,2026-01-28,Analytics,Technical Issue,Medium,Chat,Aarav,Escalated,22.8,Met,5
+230,2026-05-24,Core SaaS,Feature Request,Low,Web,Meera,Escalated,25.7,Met,5
+231,2026-03-13,Core SaaS,Feature Request,High,Chat,Kabir,Escalated,6.1,Met,3
+232,2026-04-04,Collaboration,Feature Request,High,Web,Aarav,Resolved,6.2,Met,3
+233,2026-01-10,Collaboration,Performance,Low,Email,Kabir,Escalated,27.7,Met,4
+234,2026-03-23,Collaboration,Account Access,Low,Web,Kabir,Escalated,33.9,Met,5
+235,2026-05-11,Analytics,Account Access,Medium,Web,Aarav,Pending,17.1,Met,5
+236,2026-05-30,Collaboration,Technical Issue,Medium,Web,Meera,Resolved,14.7,Met,5
+237,2026-06-17,Collaboration,Feature Request,High,Email,Rohan,Escalated,10.9,Met,5
+238,2026-04-08,Core SaaS,Performance,Low,Web,Aarav,Resolved,24.8,Met,5
+239,2026-01-05,Collaboration,Performance,Medium,Chat,Anaya,Resolved,14.4,Met,4
+240,2026-02-05,Collaboration,Feature Request,Medium,Web,Meera,Resolved,20.0,Met,5
+241,2026-02-14,Collaboration,Account Access,Medium,Web,Meera,Resolved,13.1,Met,5
+242,2026-03-05,Analytics,Account Access,Medium,Web,Diya,Pending,17.0,Met,4
+243,2026-03-23,Analytics,Technical Issue,Medium,Web,Anaya,Escalated,9.3,Met,5
+244,2026-04-08,Analytics,Billing,High,Chat,Aarav,Resolved,6.5,Met,4
+245,2026-01-21,Core SaaS,Performance,Medium,Chat,Rohan,Resolved,15.1,Met,4
+246,2026-02-05,Core SaaS,Billing,Low,Email,Anaya,Escalated,31.1,Met,5
+247,2026-02-27,Core SaaS,Billing,Medium,Email,Rohan,Resolved,21.9,Met,5
+248,2026-04-15,Analytics,Feature Request,Medium,Web,Diya,Resolved,19.3,Met,5
+249,2026-03-24,Core SaaS,Performance,Medium,Web,Anaya,Resolved,24.4,Breached,5
+250,2026-02-14,Core SaaS,Feature Request,Medium,Chat,Diya,Resolved,20.5,Met,5
+251,2026-01-10,Analytics,Feature Request,Low,Web,Rohan,Escalated,28.3,Met,5
+252,2026-05-07,Collaboration,Feature Request,High,Chat,Diya,Resolved,9.2,Met,3
+253,2026-03-26,Collaboration,Account Access,Low,Chat,Rohan,Resolved,27.0,Met,3
+254,2026-02-14,Analytics,Feature Request,Medium,Web,Kabir,Resolved,18.8,Met,5
+255,2026-04-13,Core SaaS,Technical Issue,Medium,Chat,Meera,Resolved,18.9,Met,4
+256,2026-04-25,Analytics,Performance,High,Web,Rohan,Resolved,12.0,Breached,5
+257,2026-03-08,Analytics,Billing,Medium,Chat,Anaya,Escalated,17.5,Met,3
+258,2026-03-21,Analytics,Account Access,Medium,Web,Diya,Resolved,16.7,Met,5
+259,2026-02-04,Collaboration,Performance,Medium,Chat,Rohan,Resolved,6.5,Met,4
+260,2026-03-05,Core SaaS,Performance,Medium,Chat,Rohan,Resolved,21.3,Met,5
+261,2026-01-20,Core SaaS,Performance,High,Web,Diya,Resolved,15.7,Breached,5
+262,2026-03-25,Collaboration,Billing,High,Web,Rohan,Pending,14.9,Breached,4
+263,2026-01-24,Analytics,Feature Request,High,Web,Aarav,Escalated,8.7,Met,3
+264,2026-04-29,Core SaaS,Feature Request,Medium,Chat,Aarav,Resolved,18.5,Met,4
+265,2026-05-29,Core SaaS,Technical Issue,Low,Chat,Aarav,Resolved,24.5,Met,5
+266,2026-04-15,Collaboration,Feature Request,Low,Chat,Meera,Pending,32.9,Met,3
+267,2026-04-07,Collaboration,Account Access,Medium,Email,Diya,Escalated,15.6,Met,5
+268,2026-04-11,Core SaaS,Technical Issue,Medium,Email,Kabir,Pending,12.6,Met,5
+269,2026-06-22,Analytics,Account Access,High,Email,Kabir,Resolved,6.5,Met,4
+270,2026-01-29,Collaboration,Technical Issue,Low,Email,Diya,Resolved,31.8,Met,5
+271,2026-01-26,Core SaaS,Technical Issue,Medium,Chat,Meera,Resolved,12.4,Met,5
+272,2026-05-19,Core SaaS,Billing,Low,Web,Kabir,Resolved,32.0,Met,5
+273,2026-05-28,Analytics,Billing,Medium,Web,Rohan,Resolved,13.1,Met,4
+274,2026-04-16,Collaboration,Billing,Medium,Web,Anaya,Pending,14.6,Met,2
+275,2026-05-23,Collaboration,Account Access,Medium,Web,Meera,Pending,27.4,Breached,5
+276,2026-02-08,Collaboration,Feature Request,Medium,Email,Diya,Resolved,16.3,Met,3
+277,2026-02-06,Collaboration,Performance,High,Email,Meera,Resolved,14.4,Breached,5
+278,2026-03-07,Analytics,Account Access,Low,Email,Rohan,Resolved,27.4,Met,5
+279,2026-01-14,Core SaaS,Performance,Medium,Web,Anaya,Escalated,15.5,Met,5
+280,2026-02-25,Analytics,Account Access,Medium,Email,Diya,Resolved,13.2,Met,5
+281,2026-01-31,Collaboration,Billing,High,Chat,Diya,Escalated,10.2,Met,5
+282,2026-03-24,Collaboration,Account Access,High,Chat,Kabir,Resolved,1.1,Met,4
+283,2026-05-12,Analytics,Billing,High,Chat,Kabir,Pending,3.0,Met,5
+284,2026-01-12,Core SaaS,Technical Issue,Medium,Chat,Rohan,Escalated,19.5,Met,4
+285,2026-05-29,Collaboration,Billing,High,Chat,Rohan,Resolved,9.3,Met,4
+286,2026-03-07,Collaboration,Feature Request,High,Chat,Diya,Resolved,12.5,Breached,4
+287,2026-02-13,Collaboration,Technical Issue,Low,Web,Aarav,Resolved,27.6,Met,5
+288,2026-06-21,Core SaaS,Billing,Low,Email,Anaya,Resolved,29.3,Met,1
+289,2026-01-03,Collaboration,Feature Request,Low,Web,Meera,Resolved,28.6,Met,5
+290,2026-01-02,Core SaaS,Performance,Medium,Web,Kabir,Escalated,18.4,Met,4
+291,2026-03-15,Core SaaS,Technical Issue,Low,Email,Rohan,Resolved,32.3,Met,5
+292,2026-03-03,Analytics,Account Access,Low,Chat,Aarav,Resolved,24.5,Met,5
+293,2026-04-14,Core SaaS,Technical Issue,Medium,Email,Meera,Pending,18.3,Met,4
+294,2026-04-07,Core SaaS,Billing,Medium,Email,Meera,Pending,24.2,Breached,2
+295,2026-06-15,Collaboration,Technical Issue,High,Email,Diya,Escalated,2.8,Met,3
+296,2026-05-02,Collaboration,Account Access,Medium,Web,Rohan,Resolved,14.8,Met,5
+297,2026-02-15,Collaboration,Feature Request,Critical,Email,Kabir,Resolved,2.0,Met,5
+298,2026-05-25,Analytics,Performance,Low,Chat,Meera,Resolved,39.4,Met,5
+299,2026-06-26,Analytics,Billing,High,Email,Kabir,Escalated,0.5,Met,2
+300,2026-06-07,Analytics,Technical Issue,Critical,Web,Kabir,Pending,5.9,Met,4
+301,2026-05-06,Collaboration,Feature Request,Low,Email,Rohan,Resolved,26.3,Met,3
+302,2026-03-05,Core SaaS,Feature Request,High,Web,Anaya,Resolved,8.7,Met,3
+303,2026-04-10,Analytics,Account Access,Medium,Email,Diya,Resolved,18.3,Met,4
+304,2026-02-17,Collaboration,Feature Request,Medium,Email,Aarav,Resolved,18.3,Met,5
+305,2026-04-01,Core SaaS,Account Access,Medium,Chat,Meera,Resolved,12.3,Met,5
+306,2026-05-24,Collaboration,Performance,High,Email,Anaya,Pending,6.0,Met,5
+307,2026-02-13,Analytics,Account Access,Low,Chat,Kabir,Pending,28.5,Met,2
+308,2026-01-20,Collaboration,Feature Request,Medium,Web,Rohan,Resolved,22.4,Met,5
+309,2026-04-28,Collaboration,Feature Request,Low,Chat,Meera,Resolved,26.7,Met,4
+310,2026-04-21,Collaboration,Billing,High,Chat,Kabir,Escalated,19.2,Breached,5
+311,2026-06-27,Analytics,Feature Request,Low,Web,Diya,Resolved,25.9,Met,5
+312,2026-04-07,Analytics,Technical Issue,Medium,Web,Diya,Escalated,27.5,Breached,5
+313,2026-05-20,Collaboration,Billing,Low,Chat,Kabir,Resolved,30.1,Met,5
+314,2026-04-15,Analytics,Billing,Medium,Chat,Anaya,Resolved,17.1,Met,3
+315,2026-04-19,Analytics,Performance,High,Web,Anaya,Pending,20.9,Breached,4
+316,2026-05-20,Collaboration,Performance,Low,Web,Anaya,Resolved,35.5,Met,5
+317,2026-01-28,Core SaaS,Performance,High,Web,Anaya,Pending,7.9,Met,5
+318,2026-03-26,Core SaaS,Technical Issue,Critical,Chat,Diya,Escalated,2.9,Met,4
+319,2026-05-13,Analytics,Performance,Medium,Web,Rohan,Resolved,16.9,Met,4
+320,2026-03-30,Analytics,Feature Request,Critical,Email,Aarav,Resolved,3.4,Met,4
+321,2026-03-31,Analytics,Technical Issue,Medium,Chat,Anaya,Pending,15.4,Met,4
+322,2026-03-23,Collaboration,Technical Issue,Low,Email,Kabir,Resolved,30.8,Met,2
+323,2026-06-23,Collaboration,Billing,High,Chat,Rohan,Pending,15.9,Breached,5
+324,2026-04-29,Core SaaS,Billing,Low,Web,Anaya,Pending,27.2,Met,4
+325,2026-04-12,Analytics,Technical Issue,Low,Web,Diya,Resolved,28.0,Met,5
+326,2026-03-13,Core SaaS,Performance,High,Email,Rohan,Resolved,8.3,Met,5
+327,2026-04-04,Collaboration,Account Access,Medium,Web,Meera,Escalated,15.0,Met,5
+328,2026-04-11,Analytics,Performance,Medium,Email,Anaya,Resolved,18.8,Met,4
+329,2026-06-07,Core SaaS,Billing,Medium,Chat,Anaya,Resolved,16.4,Met,4
+330,2026-05-11,Collaboration,Feature Request,Medium,Chat,Diya,Pending,14.9,Met,5
+331,2026-06-12,Core SaaS,Feature Request,Medium,Chat,Diya,Resolved,26.1,Breached,3
+332,2026-03-22,Analytics,Technical Issue,High,Chat,Diya,Resolved,5.5,Met,5
+333,2026-04-09,Analytics,Feature Request,Critical,Chat,Diya,Resolved,1.3,Met,5
+334,2026-05-25,Analytics,Technical Issue,Low,Chat,Diya,Escalated,29.8,Met,5
+335,2026-03-15,Collaboration,Performance,Low,Email,Rohan,Resolved,23.6,Met,5
+336,2026-03-10,Analytics,Performance,High,Email,Anaya,Pending,11.7,Met,5
+337,2026-05-20,Core SaaS,Account Access,Low,Email,Meera,Resolved,24.2,Met,5
+338,2026-03-31,Core SaaS,Billing,High,Email,Anaya,Escalated,13.0,Breached,3
+339,2026-06-26,Core SaaS,Billing,Medium,Email,Aarav,Escalated,16.6,Met,3
+340,2026-03-31,Core SaaS,Account Access,Medium,Web,Kabir,Resolved,12.5,Met,5
+341,2026-05-27,Core SaaS,Billing,Medium,Chat,Aarav,Resolved,25.3,Breached,5
+342,2026-06-17,Core SaaS,Billing,Low,Web,Kabir,Resolved,20.9,Met,5
+343,2026-06-23,Analytics,Feature Request,Medium,Email,Anaya,Resolved,21.5,Met,5
+344,2026-04-14,Analytics,Feature Request,Medium,Chat,Kabir,Escalated,22.4,Met,4
+345,2026-01-01,Collaboration,Account Access,High,Email,Rohan,Pending,11.0,Met,5
+346,2026-02-25,Analytics,Account Access,Critical,Chat,Kabir,Resolved,4.6,Met,5
+347,2026-05-21,Collaboration,Technical Issue,Medium,Email,Aarav,Pending,13.8,Met,4
+348,2026-01-05,Analytics,Feature Request,Low,Email,Meera,Resolved,28.1,Met,5
+349,2026-06-26,Analytics,Technical Issue,High,Web,Kabir,Resolved,12.5,Breached,5
+350,2026-01-22,Core SaaS,Technical Issue,Medium,Chat,Anaya,Resolved,15.7,Met,5
+351,2026-06-29,Core SaaS,Feature Request,High,Email,Diya,Escalated,8.4,Met,3
+352,2026-02-27,Core SaaS,Account Access,Medium,Email,Meera,Resolved,18.8,Met,4
+353,2026-05-03,Analytics,Account Access,Low,Chat,Diya,Pending,25.2,Met,3
+354,2026-02-04,Core SaaS,Performance,Medium,Web,Aarav,Escalated,22.3,Met,5
+355,2026-06-16,Analytics,Performance,Low,Web,Meera,Resolved,28.4,Met,5
+356,2026-01-23,Core SaaS,Performance,High,Web,Meera,Resolved,12.2,Breached,3
+357,2026-04-20,Collaboration,Performance,Medium,Web,Anaya,Escalated,20.1,Met,3
+358,2026-03-14,Collaboration,Account Access,High,Email,Rohan,Escalated,12.5,Breached,5
+359,2026-05-11,Core SaaS,Feature Request,Low,Chat,Aarav,Resolved,25.5,Met,5
+360,2026-05-08,Core SaaS,Account Access,Medium,Chat,Diya,Pending,21.6,Met,2
+361,2026-05-26,Core SaaS,Technical Issue,Medium,Web,Aarav,Resolved,15.6,Met,4
+362,2026-03-09,Analytics,Performance,Low,Chat,Anaya,Escalated,29.3,Met,5
+363,2026-04-17,Core SaaS,Account Access,Medium,Email,Kabir,Resolved,13.3,Met,5
+364,2026-05-11,Core SaaS,Performance,Critical,Chat,Meera,Escalated,9.3,Breached,5
+365,2026-06-12,Analytics,Billing,High,Email,Diya,Resolved,6.6,Met,4
+366,2026-04-22,Core SaaS,Account Access,Low,Web,Anaya,Resolved,25.4,Met,5
+367,2026-01-31,Analytics,Performance,Low,Web,Anaya,Resolved,30.4,Met,4
+368,2026-02-12,Analytics,Technical Issue,Medium,Email,Kabir,Pending,18.5,Met,5
+369,2026-03-11,Analytics,Feature Request,Medium,Web,Kabir,Resolved,17.1,Met,5
+370,2026-05-08,Core SaaS,Account Access,High,Email,Rohan,Resolved,20.8,Breached,3
+371,2026-02-28,Core SaaS,Feature Request,High,Chat,Meera,Resolved,17.9,Breached,1
+372,2026-02-15,Collaboration,Feature Request,Critical,Email,Kabir,Resolved,6.1,Met,5
+373,2026-04-17,Core SaaS,Performance,High,Web,Aarav,Resolved,6.8,Met,5
+374,2026-02-27,Analytics,Technical Issue,High,Chat,Kabir,Resolved,16.8,Breached,5
+375,2026-03-25,Analytics,Performance,Low,Email,Meera,Resolved,26.3,Met,4
+376,2026-06-01,Core SaaS,Performance,Critical,Email,Diya,Resolved,7.0,Met,5
+377,2026-04-15,Core SaaS,Account Access,Low,Email,Anaya,Pending,24.5,Met,5
+378,2026-03-20,Core SaaS,Feature Request,Low,Chat,Aarav,Resolved,28.5,Met,5
+379,2026-03-13,Collaboration,Account Access,Low,Chat,Anaya,Resolved,37.5,Met,5
+380,2026-05-29,Analytics,Technical Issue,Low,Web,Rohan,Resolved,25.9,Met,3
+381,2026-04-22,Analytics,Account Access,Medium,Chat,Meera,Resolved,20.3,Met,5
+382,2026-03-01,Collaboration,Technical Issue,Low,Email,Aarav,Resolved,32.4,Met,4
+383,2026-04-26,Core SaaS,Feature Request,Medium,Chat,Meera,Resolved,13.9,Met,5
+384,2026-01-31,Analytics,Performance,Low,Email,Diya,Resolved,32.7,Met,5
+385,2026-02-07,Collaboration,Account Access,Low,Chat,Diya,Resolved,30.0,Met,5
+386,2026-04-14,Collaboration,Billing,High,Email,Meera,Resolved,13.8,Breached,5
+387,2026-02-05,Core SaaS,Feature Request,Low,Chat,Anaya,Resolved,36.5,Met,4
+388,2026-05-30,Core SaaS,Technical Issue,Medium,Email,Diya,Pending,20.6,Met,5
+389,2026-02-02,Analytics,Technical Issue,Low,Email,Rohan,Pending,34.2,Met,3
+390,2026-04-12,Analytics,Billing,Medium,Chat,Diya,Resolved,12.0,Met,4
+391,2026-03-12,Core SaaS,Account Access,Medium,Chat,Meera,Escalated,18.8,Met,5
+392,2026-05-03,Core SaaS,Feature Request,Low,Email,Anaya,Escalated,29.3,Met,4
+393,2026-03-05,Collaboration,Account Access,Medium,Chat,Rohan,Pending,20.3,Met,5
+394,2026-03-30,Analytics,Account Access,High,Email,Aarav,Resolved,3.3,Met,5
+395,2026-06-02,Analytics,Performance,Low,Chat,Rohan,Resolved,35.5,Met,2
+396,2026-02-10,Analytics,Performance,Low,Web,Aarav,Resolved,25.8,Met,5
+397,2026-05-28,Core SaaS,Billing,High,Email,Rohan,Resolved,11.1,Met,5
+398,2026-06-28,Collaboration,Account Access,Medium,Web,Rohan,Resolved,14.4,Met,5
+399,2026-05-25,Collaboration,Account Access,Critical,Email,Meera,Resolved,9.8,Breached,5
+400,2026-01-24,Core SaaS,Performance,Low,Chat,Aarav,Resolved,23.8,Met,5
+401,2026-06-07,Analytics,Technical Issue,Low,Email,Diya,Escalated,34.3,Met,5
+402,2026-02-06,Analytics,Technical Issue,High,Chat,Anaya,Pending,14.6,Breached,5
+403,2026-05-31,Analytics,Feature Request,Low,Web,Kabir,Resolved,29.3,Met,3
+404,2026-05-24,Analytics,Billing,Medium,Web,Rohan,Resolved,20.1,Met,5
+405,2026-04-07,Collaboration,Performance,Medium,Chat,Rohan,Resolved,17.2,Met,5
+406,2026-02-16,Collaboration,Billing,Medium,Web,Rohan,Resolved,16.1,Met,5
+407,2026-05-08,Core SaaS,Technical Issue,Low,Web,Anaya,Resolved,29.9,Met,5
+408,2026-04-25,Collaboration,Technical Issue,Low,Chat,Kabir,Resolved,27.1,Met,4
+409,2026-01-01,Analytics,Feature Request,Low,Chat,Kabir,Escalated,26.1,Met,3
+410,2026-04-07,Collaboration,Billing,Low,Email,Meera,Resolved,31.6,Met,4
+411,2026-01-09,Core SaaS,Feature Request,Medium,Email,Anaya,Resolved,13.9,Met,2
+412,2026-05-21,Analytics,Performance,Critical,Web,Meera,Resolved,14.9,Breached,5
+413,2026-04-21,Core SaaS,Account Access,Critical,Email,Diya,Pending,10.3,Breached,3
+414,2026-06-28,Collaboration,Account Access,Medium,Web,Kabir,Resolved,25.2,Breached,5
+415,2026-03-02,Core SaaS,Account Access,Low,Email,Meera,Resolved,26.0,Met,4
+416,2026-03-17,Analytics,Billing,High,Email,Aarav,Resolved,13.1,Breached,5
+417,2026-02-13,Analytics,Feature Request,Medium,Chat,Anaya,Resolved,22.5,Met,3
+418,2026-01-24,Analytics,Feature Request,Medium,Chat,Diya,Pending,17.3,Met,4
+419,2026-01-12,Core SaaS,Billing,Medium,Web,Anaya,Resolved,15.2,Met,4
+420,2026-01-22,Analytics,Performance,Medium,Email,Rohan,Resolved,18.6,Met,5
+421,2026-04-10,Analytics,Performance,High,Email,Meera,Resolved,5.7,Met,5
+422,2026-01-21,Core SaaS,Performance,Medium,Web,Rohan,Escalated,20.4,Met,5
+423,2026-06-23,Core SaaS,Billing,Critical,Email,Diya,Resolved,11.9,Breached,4
+424,2026-04-19,Core SaaS,Billing,Low,Web,Kabir,Resolved,37.8,Met,5
+425,2026-01-18,Collaboration,Feature Request,Low,Email,Anaya,Escalated,25.2,Met,5
+426,2026-05-31,Analytics,Billing,Medium,Email,Rohan,Escalated,16.2,Met,4
+427,2026-05-30,Core SaaS,Account Access,High,Web,Kabir,Pending,18.5,Breached,5
+428,2026-03-09,Collaboration,Feature Request,Medium,Email,Diya,Resolved,14.6,Met,4
+429,2026-04-14,Analytics,Billing,Low,Email,Anaya,Pending,25.2,Met,2
+430,2026-03-10,Analytics,Account Access,High,Chat,Meera,Resolved,6.1,Met,1
+431,2026-02-28,Analytics,Feature Request,Low,Web,Anaya,Resolved,34.3,Met,5
+432,2026-02-18,Analytics,Feature Request,Medium,Web,Kabir,Resolved,17.3,Met,5
+433,2026-05-12,Collaboration,Performance,High,Email,Diya,Resolved,15.8,Breached,4
+434,2026-02-21,Analytics,Technical Issue,High,Chat,Anaya,Resolved,12.5,Breached,4
+435,2026-03-12,Collaboration,Technical Issue,Medium,Email,Kabir,Pending,14.1,Met,5
+436,2026-06-02,Analytics,Performance,Medium,Web,Kabir,Resolved,18.9,Met,5
+437,2026-02-11,Core SaaS,Feature Request,High,Email,Diya,Escalated,9.6,Met,3
+438,2026-02-24,Collaboration,Billing,High,Chat,Anaya,Pending,17.5,Breached,5
+439,2026-05-12,Core SaaS,Billing,Low,Web,Aarav,Resolved,31.3,Met,1
+440,2026-03-06,Collaboration,Account Access,Medium,Chat,Meera,Resolved,11.3,Met,5
+441,2026-04-28,Analytics,Performance,Medium,Email,Aarav,Escalated,12.1,Met,5
+442,2026-06-19,Collaboration,Performance,Critical,Web,Kabir,Resolved,7.2,Met,5
+443,2026-06-25,Analytics,Account Access,Low,Web,Anaya,Resolved,41.0,Met,5
+444,2026-02-18,Core SaaS,Performance,Low,Chat,Anaya,Resolved,34.7,Met,5
+445,2026-06-24,Analytics,Feature Request,Low,Chat,Anaya,Resolved,34.6,Met,4
+446,2026-05-30,Core SaaS,Account Access,High,Web,Anaya,Resolved,10.7,Met,5
+447,2026-06-25,Collaboration,Account Access,Medium,Email,Anaya,Escalated,19.9,Met,5
+448,2026-02-16,Collaboration,Account Access,Medium,Web,Rohan,Resolved,9.5,Met,4
+449,2026-06-24,Analytics,Feature Request,High,Chat,Kabir,Resolved,8.4,Met,4
+450,2026-05-30,Analytics,Technical Issue,Medium,Web,Rohan,Escalated,15.7,Met,5
+451,2026-06-08,Analytics,Performance,Low,Chat,Meera,Resolved,33.6,Met,5
+452,2026-02-08,Analytics,Performance,Low,Chat,Diya,Resolved,27.0,Met,4
+453,2026-02-16,Collaboration,Technical Issue,High,Email,Meera,Resolved,4.4,Met,3
+454,2026-02-23,Core SaaS,Feature Request,High,Email,Diya,Escalated,10.4,Met,3
+455,2026-04-22,Core SaaS,Performance,Medium,Email,Anaya,Resolved,9.5,Met,4
+456,2026-01-04,Collaboration,Billing,High,Email,Anaya,Resolved,15.9,Breached,5
+457,2026-06-10,Core SaaS,Feature Request,High,Web,Rohan,Resolved,11.2,Met,4
+458,2026-02-12,Analytics,Feature Request,Low,Web,Rohan,Escalated,38.1,Met,2
+459,2026-05-15,Analytics,Account Access,Medium,Email,Diya,Pending,28.0,Breached,4
+460,2026-01-05,Core SaaS,Billing,Low,Web,Aarav,Escalated,21.5,Met,5
+461,2026-05-10,Collaboration,Account Access,Low,Web,Rohan,Resolved,26.1,Met,2
+462,2026-06-02,Collaboration,Technical Issue,Critical,Email,Anaya,Resolved,10.3,Breached,5
+463,2026-04-17,Core SaaS,Technical Issue,Medium,Chat,Meera,Resolved,20.2,Met,5
+464,2026-06-19,Collaboration,Billing,Medium,Chat,Aarav,Escalated,20.1,Met,5
+465,2026-06-08,Core SaaS,Account Access,Low,Web,Diya,Resolved,31.4,Met,3
+466,2026-04-15,Analytics,Billing,Medium,Web,Meera,Resolved,19.2,Met,2
+467,2026-03-02,Collaboration,Feature Request,Low,Email,Aarav,Escalated,25.9,Met,5
+468,2026-01-20,Analytics,Billing,High,Chat,Kabir,Resolved,2.3,Met,3
+469,2026-04-29,Analytics,Account Access,Low,Chat,Anaya,Resolved,33.1,Met,5
+470,2026-01-25,Core SaaS,Billing,High,Web,Anaya,Resolved,2.5,Met,5
+471,2026-03-26,Core SaaS,Account Access,Medium,Chat,Diya,Resolved,12.8,Met,5
+472,2026-04-13,Analytics,Feature Request,Medium,Chat,Anaya,Resolved,20.1,Met,4
+473,2026-01-29,Core SaaS,Feature Request,Low,Web,Meera,Escalated,28.3,Met,5
+474,2026-06-23,Analytics,Performance,Medium,Email,Anaya,Resolved,6.8,Met,5
+475,2026-05-04,Analytics,Account Access,Critical,Email,Anaya,Escalated,9.1,Breached,2
+476,2026-05-28,Collaboration,Account Access,High,Web,Rohan,Escalated,12.7,Breached,4
+477,2026-01-25,Collaboration,Feature Request,Medium,Email,Rohan,Escalated,17.3,Met,5
+478,2026-01-14,Collaboration,Feature Request,Low,Chat,Diya,Resolved,25.5,Met,5
+479,2026-05-06,Collaboration,Feature Request,Medium,Chat,Diya,Resolved,16.4,Met,5
+480,2026-04-28,Core SaaS,Feature Request,Medium,Chat,Kabir,Resolved,20.8,Met,5
+481,2026-05-08,Collaboration,Technical Issue,High,Email,Rohan,Escalated,14.0,Breached,2
+482,2026-06-13,Core SaaS,Feature Request,Medium,Chat,Kabir,Resolved,18.5,Met,5
+483,2026-02-27,Collaboration,Account Access,High,Web,Meera,Resolved,6.6,Met,5
+484,2026-01-25,Analytics,Account Access,High,Web,Kabir,Escalated,15.9,Breached,4
+485,2026-05-14,Collaboration,Feature Request,Medium,Email,Kabir,Escalated,24.7,Breached,4
+486,2026-02-20,Analytics,Billing,Low,Chat,Diya,Resolved,35.3,Met,5
+487,2026-01-28,Core SaaS,Feature Request,High,Chat,Anaya,Escalated,15.4,Breached,5
+488,2026-05-10,Collaboration,Technical Issue,Low,Web,Meera,Escalated,31.6,Met,4
+489,2026-05-04,Core SaaS,Billing,Critical,Email,Meera,Escalated,7.7,Met,5
+490,2026-06-05,Analytics,Feature Request,High,Web,Anaya,Resolved,1.4,Met,5
+491,2026-03-12,Core SaaS,Feature Request,Medium,Web,Anaya,Escalated,16.2,Met,5
+492,2026-03-18,Analytics,Performance,High,Web,Diya,Resolved,12.8,Breached,5
+493,2026-02-23,Collaboration,Billing,Medium,Web,Rohan,Resolved,17.1,Met,5
+494,2026-01-30,Collaboration,Performance,High,Web,Anaya,Pending,13.6,Breached,5
+495,2026-06-22,Core SaaS,Performance,High,Email,Aarav,Pending,11.8,Met,5
+496,2026-02-07,Analytics,Billing,Low,Chat,Anaya,Resolved,27.2,Met,2
+497,2026-02-07,Core SaaS,Account Access,High,Chat,Aarav,Escalated,8.8,Met,5
+498,2026-06-22,Collaboration,Performance,High,Chat,Diya,Escalated,6.9,Met,5
+499,2026-06-28,Collaboration,Account Access,Medium,Web,Aarav,Resolved,13.3,Met,4
+500,2026-03-06,Analytics,Billing,Low,Web,Anaya,Resolved,22.1,Met,5
