@@ -1,6 +1,6 @@
 # customer-operations-analytics-dashboard
 Customer support analytics dashboard using Python, SQL, Excel and Power BI to analyze operational KPIs, SLA performance and customer insights.
-# Customer Operations Analytics Dashboard
+
 
 An end-to-end data analytics project focused on analyzing customer support and operational data to identify trends, performance bottlenecks, and opportunities for improving business operations.
 
